@@ -1,0 +1,8 @@
+Entrada: La linea indica el número que has d'introduir per calcular el factorial
+--- exec:3.1.0:exec (default-cli) @ CalcularFactorial ---
+Introdueix un numero entre el 1 i el 10: 
+
+Sortida: Torna el factorial del numero que has introduit
+---------------------------
+El Factorial del numero 3 es: 6
+---------------------------
